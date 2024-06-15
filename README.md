@@ -11,7 +11,7 @@ There is an /app/exceptions.py which has a function to check if configuration fo
 
 ### How to run
 
-1. Clone this repo by running the command 'git clone https://github.com/ayushkr1701/Fast-API ' in the terminal.
+1. Clone this repo by running the command 'git clone https://github.com/arunsahu16/Fast-API-main.git ' in the terminal.
 2. Now create a virtual environment by running command 'virtualenv -p python3.12 <name>'.
 3. Now activate the virtual environment by running the command '<name>\scripts\activate'.
 4. Once the virtual env gets started install all the dependencies by running the command 'pip install -r requirements.txt' 
